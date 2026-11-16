@@ -96,8 +96,9 @@ Sistema de **gestão de uma barraca de hot dog**: vendas por ingrediente, baixa 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cryyww&show_icons=true&hide_border=true&bg_color=0d0d0c&title_color=ff6b35&icon_color=3ecf8e&text_color=f2f2ee&count_private=true" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryyww&layout=compact&hide_border=true&bg_color=0d0d0c&title_color=ff6b35&text_color=f2f2ee" alt="Linguagens mais usadas" />
+![SEGUIDORES](https://img.shields.io/github/followers/cryyww?style=for-the-badge&logo=github&label=SEGUIDORES&labelColor=0d0d0c&color=FF6B35)
+![REPOS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcryyww&query=%24.public_repos&style=for-the-badge&logo=github&label=REPOS%20P%C3%9ABLICOS&labelColor=0d0d0c&color=3ECF8E)
+![ULTIMO COMMIT](https://img.shields.io/github/last-commit/cryyww/conectaapae?style=for-the-badge&logo=git&logoColor=white&label=%C3%9ALTIMO%20COMMIT&labelColor=0d0d0c&color=FF6B35)
 
 </div>
 
